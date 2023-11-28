@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Swati Londhe
+- 👀 I’m interested in Web Develpement and Web Designing
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 Reach me at kalamkarswati@gmail.com
